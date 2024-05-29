@@ -1,4 +1,4 @@
-#clone is not done now# Sample Node.js Project 
+#cloning now# Sample Node.js Project 
 
 A Node.js project written using Express. EJS was used as the view engine.
 
